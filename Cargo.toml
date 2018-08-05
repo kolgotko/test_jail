@@ -1,0 +1,8 @@
+[package]
+name = "test_socket"
+version = "0.1.0"
+authors = ["Bykov Igor <igorb.dev@websm.io>"]
+
+[dependencies]
+libc = "0.2.42"
+iovec = "0.1.0"
